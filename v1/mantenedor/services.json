@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "id": "1",
+            "titulo": {
+                "esp": "Consultor\u00eda digital"
+            },
+            "texto": {
+                "esp": "Identificamos las fallas y conectamos los puntos entre tu negocio y tu estrategia digital. Nuestro equipo experto cuenta con a\u00f1os de experiencia en la definici\u00f3n de estrategias y hojas de ruta en funci\u00f3n de tus objetivos espec\u00edficos."
+            },
+            "activo": true
+        },
+        {
+            "id": "2",
+            "titulo": {
+                "esp": "Soluciones multiexperiencia"
+            },
+            "texto": {
+                "esp": "Deleitamos a las personas usuarias con experiencias interconectadas a trav\u00e9s de aplicaciones web, m\u00f3viles, interfaces conversacionales, digital twin, IoT y AR. Su arquitectura puede adaptarse y evolucionar para adaptarse a los cambios de tu organizaci\u00f3n."
+            },
+            "activo": true
+        },
+        {
+            "id": "3",
+            "titulo": {
+                "esp": "Evoluci\u00f3n de ecosistemas"
+            },
+            "texto": {
+                "esp": "Ayudamos a las empresas a evolucionar y ejecutar sus aplicaciones de forma eficiente, desplegando equipos especializados en la modernizaci\u00f3n y el mantenimiento de ecosistemas t\u00e9cnicos. Creando soluciones robustas en tecnolog\u00edas de vanguardia."
+            },
+            "activo": true
+        },
+        {
+            "id": "4",
+            "titulo": {
+                "esp": "Soluciones Low-Code"
+            },
+            "texto": {
+                "esp": "Traemos el poder de las soluciones low-code y no-code para ayudar a nuestros clientes a acelerar su salida al mercado y a\u00f1adir valor. Aumentamos la productividad y la calidad, reduciendo los requisitos de cualificaci\u00f3n de los desarrolladores."
+            },
+            "activo": true
+        }
+    ]
+}

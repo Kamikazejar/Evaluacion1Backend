@@ -1,0 +1,20 @@
+{
+    "data": {
+        "mision": {
+            "titulo": {
+                "esp": "Misi\u00f3n"
+            },
+            "contenido": {
+                "esp": "Nuestra misi\u00f3n es ofrecer soluciones digitales innovadoras y de alta calidad que impulsen el \u00e9xito de nuestros clientes, ayud\u00e1ndolos a alcanzar sus objetivos empresariales a trav\u00e9s de la tecnolog\u00eda y la creatividad."
+            }
+        },
+        "vision": {
+            "titulo": {
+                "esp": "Visi\u00f3n"
+            },
+            "contenido": {
+                "esp": "Nos visualizamos como l\u00edderes en el campo de la consultor\u00eda y desarrollo de software, reconocidos por nuestra excelencia en el servicio al cliente, nuestra capacidad para adaptarnos a las necesidades cambiantes del mercado y nuestra contribuci\u00f3n al crecimiento y la transformaci\u00f3n digital de las empresas"
+            }
+        }
+    }
+}
